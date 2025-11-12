@@ -16,4 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobaltmonster&" alt="cobaltmonster" /></p>
 
+<br>
+<p align="center">that's all folks :3</p>
+<p align="center"><img src="https://media.tenor.com/nVwnoY-M36oAAAAi/white-cat.gif" width="48"></p>
 <p align="center"><img src="https://media1.tenor.com/m/rJ3Hh3uAeF4AAAAC/rgb.gif"></p>
